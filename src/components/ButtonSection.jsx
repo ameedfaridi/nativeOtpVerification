@@ -1,5 +1,5 @@
 import React from "react";
-export default function ButtonSection({}) {
+export default function ButtonSection() {
   return (
     <div>
       <div className="btnContainer">
